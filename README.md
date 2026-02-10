@@ -1,4 +1,4 @@
-🎬 Movie Ticket Booking System
+#🎬 Movie Ticket Booking System
 A full-stack Movie Ticket Booking System that allows users to browse movies, select theaters, choose seats, and book tickets through a secure and user-friendly web interface.
 
 📌 Features
