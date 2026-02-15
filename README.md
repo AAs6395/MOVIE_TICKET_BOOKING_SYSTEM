@@ -9,13 +9,13 @@ Secure signup and login using JWT-based authentication
 
 Persistent user sessions using local storage
 
-🎥 Movie Browsing
+## 🎥 Movie Browsing
 
 View available movies with details
 
 Select movies and proceed to booking
 
-🏟️ Theater & Seat Selection
+## 🏟️ Theater & Seat Selection
 
 Choose theaters and show timings
 
@@ -23,7 +23,7 @@ Real-time seat availability validation
 
 Prevents duplicate seat bookings
 
-🎟️ Ticket Booking
+## 🎟️ Ticket Booking
 
 Book and confirm tickets securely
 
@@ -31,14 +31,14 @@ Store booking details in the database
 
 View booking confirmation
 
-⚡ Responsive UI
+##⚡ Responsive UI
 
 Built with React and modern CSS
 
 Smooth navigation using React Router
 
-🛠️ Tech Stack
-Frontend
+## 🛠️ Tech Stack
+### Frontend
 React (Vite)
 
 JavaScript (ES6+)
@@ -47,7 +47,7 @@ HTML5, CSS3
 
 React Router
 
-Backend
+### Backend
 Node.js
 
 Express.js
@@ -61,7 +61,7 @@ MongoDB
 
 Mongoose ODM
 
- Project Structure
+ ## Project Structure
 book/
 ├── backend/
 │   ├── config/
@@ -84,7 +84,7 @@ book/
 ├── package.json
 └── README.md
 
-🚀 How to Run the Project Locally
+## 🚀 How to Run the Project Locally
 1️⃣ Prerequisites
 Make sure you have:
 
@@ -115,13 +115,13 @@ npm run dev
 Frontend will run on:
 http://localhost:5173
 
-🔐 Environment Variables (Optional)
+## 🔐 Environment Variables (Optional)
 Create a .env file inside backend/:
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/movieticket
 JWT_SECRET=your_secret_key
 
-🧪 Testing
+## 🧪 Testing
 Test user authentication (signup/login)
 
 Book tickets and confirm seat availability
@@ -130,7 +130,7 @@ Verify backend API responses using Postman
 
 Check frontend-backend communication via browser DevTools
 
-🎓 Learning Outcomes
+##🎓 Learning Outcomes
 Full-stack web development using React and Node.js
 
 REST API design and integration
@@ -141,7 +141,7 @@ Database modeling with MongoDB
 
 Handling real-time booking logic and state management
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 Online payment gateway integration
 
 Admin dashboard for movie and theater management
@@ -152,7 +152,7 @@ Recommendation system for movies
 
 Deployment on cloud platforms
 
-👨‍💻 Author
+## 👨‍💻 Author
 Aashish Joshi
 B.Tech CSE
 Full-Stack Web Development Project
