@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 BookMyShow Clone
 
 A full-stack movie ticket booking app built with React + Vite (frontend) and Express + MongoDB (backend), with real-time seat updates via Socket.IO.
@@ -150,3 +151,6 @@ Content-Type: application/json
 - **Frontend:** React 19, React Router 7, Axios, Socket.IO Client, Vite
 - **Backend:** Express 5, MongoDB, Mongoose, Socket.IO, JWT, bcryptjs
 - **Database:** MongoDB (local)
+=======
+# MOVIE_TICKET_BOOKING_SYSTEM
+>>>>>>> 413528fec8a466799bc2ec1bbf94e44e724c68db
